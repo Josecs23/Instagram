@@ -39,7 +39,12 @@ button {
     margin-top: 20px;
     cursor: pointer;
 }
-
+button:hover{
+    opacity: 0.6;
+}
+button:active{
+    opacity: 0.4;
+}
 
 .facebook {
     color: #385185;
